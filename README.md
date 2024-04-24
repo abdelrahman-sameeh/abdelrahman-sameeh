@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 ## About Me
+-  i'am a passionate and dedicated professional with a strong background in web development. With several years of experience in the field, I have honed my skills in HTML, CSS, JavaScript, and various web development frameworks such as ReactJS and Node.js. My expertise also extends to backend development with Python and Django.
+
+
+
+## Experience
 - 🔭 I’m currently working on Nozolan
-- 🌱 I’m currently learning Web development
-- 👯 I’m looking to collaborate on: Exciting tech projects or open-source initiatives. I'm passionate about web development.
 
 ## Contact Me
 - 📧 Email: [abdelrahman.sameeh507@gmail.com](mailto:abdelrahman.sameeh507@gmail.com)
@@ -51,7 +54,7 @@ The Chat App is a real-time communication platform developed using socket.io tec
 </details>
 
 ## Education
-<strong>computer and information technology (2020-2024)</strong>
+<strong>computer and information technology (cs department) (2020-2024)</strong>
 
 
 
