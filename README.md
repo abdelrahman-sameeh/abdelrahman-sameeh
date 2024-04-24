@@ -6,7 +6,7 @@
 
 
 ## Experience
-- 🔭 I’m currently working on [Nozolan](https://nozolan.com/)
+- 🔭 I’m currently working on <a href="https://nozolan.com/" target="_blank">Nozolan</a>
 
 ## Contact Me
 - 📧 Email: [abdelrahman.sameeh507@gmail.com](mailto:abdelrahman.sameeh507@gmail.com)
