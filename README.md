@@ -17,12 +17,9 @@
 - HTML 🌐
 - CSS (Bootstrap, React-Bootstrap, Tailwind, matrial ui) 💅
 - JavaScript 💻
-- ReactJS (Socket.io-client, React-Router-DOM) ⚛️
-- Redux 🔄
+- ReactJS (Socket.io-client, React-Router-DOM) ⚛
 - Git Flow 🌿
 - Node.js (Express, Socket.io) 🚀
-- MongoDB (Mongoose) 🍃
-- Stripe (Payment Provider) 💳
 - Python (Django, Django Rest Framework) 🐍
 
 
